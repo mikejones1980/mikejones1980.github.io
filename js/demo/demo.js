@@ -22,5 +22,5 @@
       document.getElementById('result').value = md5(input.value)
     }
   )
-  input.value = '日本'
+  input.value = ''
 }())
