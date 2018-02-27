@@ -22,5 +22,5 @@
       document.getElementById('result').value = md5(input.value)
     }
   )
-  input.value = ''
+  input.value = 'Please enter your 17-digit number here...'
 }())
